@@ -1,0 +1,12 @@
+.header{
+  
+  background-image:url(http://www.latinoamericasupermarket.com/wp-content/uploads/photo-gallery/productsjan/Bodega_North_Jersey_3.jpg); width: 100%;height:200%;
+  background-repeat:no-repeat;
+  background-size: cover;/*forzar a la imagen a ponerse en todo el DIV*/
+
+}
+
+.color_letras__del_contenedor_main{
+
+	color:white;
+}
